@@ -276,7 +276,7 @@ Find the same pizza names that have the same price, but from different pizzerias
 | Language                        | ANSI SQL                                                                                              |
 
 Please register a new pizza with the name "greek pizza" (use id = 19) with the price of 800 rubles in the restaurant "Dominos" (pizzeria_id = 2).
-**Warning**: this exercise is likely to cause the modification of data in the wrong way. Actually, you can restore the original database model with data from the link in the "Rules of the day" section.
+**Warning**: this exercise is likely to cause the modification of data in the wrong way. Actually, you can restore the original database model with data from the [link](materials/model.sql).
 
 
 ## Chapter XII
